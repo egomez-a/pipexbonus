@@ -1,1 +1,1 @@
-scripts/test_utils.sh: line 16: ../pipexbonus/pipex: No such file or directory
+scripts/test_utils.sh: line 16: ../pipex/pipex: Not a directory

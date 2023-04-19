@@ -1,4 +1,4 @@
-Exit status: 127
+Exit status: 126
 Expected: 0
-Exit status: 127
+Exit status: 126
 Expected: 0
